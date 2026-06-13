@@ -1,20 +1,19 @@
 body{
+  text-align: center;
   background-color: rgb(228, 207, 207);
     box-sizing: border-box;
-  width: 100vw;
+    
 }
 
-p{width: 500px;
-
-}
 
 div{
     background-color: rgb(187, 214, 218);
-    margin: 0 400px;
-    border-radius: 20px ;
+    margin: 0 300px;
+    border-radius: 90px ;
+    width: 100vw;
+    padding: 50px;
+    width: 400;
 }
-
-
 
 
 
