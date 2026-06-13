@@ -1,6 +1,7 @@
 body{
   background-color: rgb(228, 207, 207);
     box-sizing: border-box;
+  width: 100vw;
 }
 
 p{width: 500px;
